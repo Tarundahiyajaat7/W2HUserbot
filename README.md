@@ -19,7 +19,7 @@
     - Install git package
            `pkg install git`
     - Clone this repository.
-           `git clone https://github.com/W2HGalaxy-OP/W2HBOT.git`
+           `git clone https://github.com/tarundahiyajaat7/W2HBOT.git`
     - Then Do
            `cd W2HBOT`
     - Run String Generator By
